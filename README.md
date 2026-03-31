@@ -1,7 +1,5 @@
 # Hi, I'm Alonso 👋
 
-Welcome to my GitHub! 🚀  
-
 I’m a **Computer Engineering student** at ISTEC with a strong interest in **programming, software development, and fullstack applications**. I enjoy building projects that apply practical logic and integrate different technologies into functional solutions.
 
 ---
